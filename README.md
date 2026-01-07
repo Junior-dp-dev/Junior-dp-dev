@@ -1,7 +1,7 @@
 <div align="center">
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=compact&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=donut&theme=github_dark&v=1"
     alt="Top Languages"
   />
 
@@ -18,3 +18,4 @@
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
   
 </div>
+
