@@ -1,7 +1,7 @@
 <div align="center">
   
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=donut&theme=github_dark&v=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=donut&theme=github_dark&v=2"
     alt="Top Languages"
   />
 
