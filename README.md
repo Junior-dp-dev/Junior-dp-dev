@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=donut&size_weight=0.5&count_weight=0.5&title_color=fff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Junior-dp-dev/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=donut&size_weight=0.5&count_weight=0.5&title_color=fff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
   
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
