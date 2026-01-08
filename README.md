@@ -2,8 +2,8 @@
 
 # 👋 Olá, eu sou o Junior
 
-💻 Desenvolvedor Front-end focado em **JavaScript, TypeScript e React**  
-🚀 Em busca de oportunidade como **Desenvolvedor Júnior / Entry-Level**
+💻 Desenvolvedor Front-end focado em **JavaScript, HTML, CSS e React Native**  
+🚀 Buscando oportunidade como **Estagiário / Desenvolvedor Júnior / Entry-Level**
 
 </div>
 
@@ -11,9 +11,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor autodidata, com experiência prática em projetos pessoais voltados para o desenvolvimento de interfaces modernas, responsivas e bem estruturadas.
+Sou desenvolvedor autodidata e trabalho principalmente com projetos pessoais, onde coloco em prática o que estudo no dia a dia.
 
-Tenho facilidade para aprender novas tecnologias, gosto de código organizado e estou em constante evolução através da prática e estudo contínuo.
+Gosto de código organizado, interfaces bem feitas e estou sempre buscando evoluir, tanto tecnicamente quanto na forma de pensar soluções mais simples e eficientes.
 
 ---
 
@@ -35,38 +35,37 @@ Tenho facilidade para aprender novas tecnologias, gosto de código organizado e 
 
 ## 📌 Projetos em Destaque
 
-- 🔗 **Portfólio Web**  
-  Site pessoal desenvolvido para apresentar meus projetos, habilidades e formas de contato.  
+- 🌐 **Portfólio Web**  
+  Meu site pessoal, onde apresento meus projetos, habilidades e formas de contato.  
   👉 https://junior-dp-dev.github.io/Portfolio/
 
-- 🧪 **Next Todo**  
-  Aplicação para gerenciamento de tarefas, focada em boas práticas de front-end, organização de código e experiência do usuário.
+- 📲 **Diário Trader**  
+  Aplicativo publicado na **Play Store**, criado para registro e acompanhamento de operações de trade.  
+  Atualmente sigo trabalhando e evoluindo o app, focando em usabilidade, organização do código e melhorias contínuas.  
+  👉 https://play.google.com/store/apps/details?id=com.jhum.dp.diariotrader
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Atualmente
 
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-dp-dev&layout=donut&theme=github_dark&v=2"
-  alt="Top Languages"
-/>
-
-</div>
+No momento estou:
+- Trabalhando ativamente no **Diário Trader**
+- Aprofundando conhecimentos em **React Native**
+- Buscando minha primeira oportunidade profissional na área de desenvolvimento
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/junior-de-paula-b17091262  
+- 💼 LinkedIn: https://www.linkedin.com/in/junior-dp/  
 - 📧 Email: junior.dp.dev@gmail.com  
-- 🌐 Portfólio: https://junior-dp-dev.github.io/Portfolio/
+- 🌐 Portfólio: https://junior-dp-dev-portfolio.web.app/
 
 ---
 
 <div align="center">
 
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios.
+⭐ Obrigado por visitar meu perfil!  
+Se quiser, fique à vontade para explorar meus repositórios ou entrar em contato.
 
 </div>
